@@ -1,0 +1,14 @@
+.house-card {
+  margin: 10px;
+  padding-bottom: 10px;
+}
+
+.house-card-left {
+  width: 50%; 
+  float:left
+}
+
+.house-card-right {
+  width: 50%;
+  float:right;
+}
