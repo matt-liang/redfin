@@ -6,9 +6,9 @@ To run this project requires NodeJS and npm installed on your machine.
 ## Quick Start
 Pull the local files to your machine. 
 
-Navigate to the server folder and run ```$ npm start``` in terminal.
+Navigate to the server folder and run ```$ npm i``` followed by ```$npm start ``` in terminal.
 
-Navigate to the client folder and run ```$ npm start``` in terminal.
+Navigate to the client folder and run ```$ npm i``` followed by ```$npm start``` in terminal.
 
 The client will be running on ```localhost:3000```
 
